@@ -9,4 +9,4 @@ app.js & scraper.js is where image and description is scraped from imgur site an
 
 How to run locally : 
 First you need to install nodejs on your computer
-Then navigate to this project folder and enter "node <filename>" 
+Then navigate to this project folder and enter "node filename" 
